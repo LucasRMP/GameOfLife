@@ -1,3 +1,3 @@
 # GameOfLife
 
-This is a personal project for my learning, i would like some advices for better practices in programming
+A terminal visualization of the celular automata called Game of Life, developed by John Horton Conway in 1970.
